@@ -1,4 +1,3 @@
-```markdown
 # AMV Multimodal Sentiment Analysis Project
 
 This Python script uses the `youtube-dl` command-line tool to download YouTube videos, audio, and lyrics from Anime Music Videos (AMVs) to conduct further multimodal sentiment analysis.
